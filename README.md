@@ -1,4 +1,3 @@
-@@ -0,0 +1,33 @@
 # TSL2591 driver for Android things
 
 This driver supports Adafruit [TSL2591](https://www.adafruit.com/product/1980) light sensor. It is based on the [TSL2591 Arduino library](https://github.com/adafruit/Adafruit_TSL2591_Library), but modified for Android Things and Kotlin.
